@@ -1,4 +1,4 @@
-The following Repository Consists of Machine Learning Projects that I did during the courseworkk period of each subjects.
+The following repository consists of Machine Learning Projects that I did during the semster for each course as a Final Project.
 
 It consists of  projects :
   1. Breast cancer Prediction - The project uses machine learning models that predicts breast cancer using pre-existing models like Logistic regression, SVM, KNN, Random forest. Tuned the hyper parameters and analyzed the model's behaviour and its influence in our problem and requirements and made a case study.
